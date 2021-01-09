@@ -131,3 +131,9 @@ To be honest I had a few problems with using classes in python. I wasn't to fami
 Regarding the pipeline I found that I spent most time in debugging the code and trimming thresholds. Since much of the code I used was from the lectures, the project and all the little errors helped me a lot in understanding what actually happens. For me it helped quite a bit extracting frame by frame from the video and focus on the more difficult parts with shadows and more curvature.
 
 Even though the code works quite well on the project video there is still a lot of room for improvement. If I had more time I would like to integrate a confidence score for the polyfitting and use this confidence score as a weight when averaging the last frames or also rejecting some fits. Also comparing left and right polynomials and there distance would be necessary to make it more robust. Those shortcomings become obvious when trying the code on the challenge videos.
+
+### Additional Ressources used
+
+- Binary https://www.codespeedy.com/convert-rgb-to-binary-image-in-python/
+- Draw polygon https://docs.opencv.org/master/dc/da5/tutorial_py_drawing_functions.html
+- Udacity lectures 
