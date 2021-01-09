@@ -17,11 +17,11 @@ The goals / steps of this project are the following:
 [image2]: ./camera_cal_results/res_calibration3.jpg "Undistorted"
 [image3]: ./test_images_results_v2/Undistorted/res_test4.jpg "Undistorted 2"
 [image4]: ./test_images_results_v2/Binary_colored/res_straight_lines2.jpg "Binary Example"
-[image5]: ./test_images_results_v2/Binary_/Warped/res_straight_lines2.jpg "Warp Example"
-[image6]: ./test_images_results_v2/Binary_/Lanes_rectangle/res_test3.jpg "Rectangle Example"
-[image7]: ./test_images_results_v2/Binary_/Lanes_rectangle/polynomials.png "polynomials Example"
-[image8]: ./test_images_results_v2/Binary_/Lane_final/res_test4.jpg "final result example"
-[image9]: ./test_images_results_v2/Binary_/Frame_by_frame/res_frame588.jpg "result example"
+[image5]: ./test_images_results_v2/Warped/res_straight_lines2.jpg "Warp Example"
+[image6]: ./test_images_results_v2/Lanes_rectangle/res_test3.jpg "Rectangle Example"
+[image7]: ./test_images_results_v2/Lanes_rectangle/polynomials.png "polynomials Example"
+[image8]: ./test_images_results_v2/Lane_final/res_test4.jpg "final result example"
+[image9]: ./test_images_results_v2/Frame_by_frame/res_frame588.jpg "result example"
 
 [image8]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image9]: ./examples/example_output.jpg "Output"
@@ -136,4 +136,4 @@ Even though the code works quite well on the project video there is still a lot 
 
 - Binary https://www.codespeedy.com/convert-rgb-to-binary-image-in-python/
 - Draw polygon https://docs.opencv.org/master/dc/da5/tutorial_py_drawing_functions.html
-- Udacity lectures 
+- Udacity lectures
